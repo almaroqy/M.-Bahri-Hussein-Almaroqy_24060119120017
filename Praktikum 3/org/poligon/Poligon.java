@@ -1,7 +1,7 @@
 /*
-	File: 
+	File: Poligon.java
 	Nama: M. Bahri Hussein Almaroqy	
-	Deskripsi: 
+	Deskripsi: kelas dari poligon
 */
 
 package org.poligon;

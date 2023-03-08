@@ -1,7 +1,7 @@
 /*
-	File:Titik.java
+	File: Segitiga.java
 	Nama: M. Bahri Hussein Almaroqy	
-	Deskripsi: Kelas dari Titik
+	Deskripsi: Kelas dari bangun datar segitiga
 */
 
 package org.bangundatar;

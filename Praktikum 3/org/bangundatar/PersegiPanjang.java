@@ -1,7 +1,7 @@
 /*
-	File:Titik.java
+	File: PersegiPanjang.java
 	Nama: M. Bahri Hussein Almaroqy	
-	Deskripsi: Kelas dari Titik
+	Deskripsi: Kelas ddari bangun datar persegi panjang
 */
 
 package org.bangundatar;

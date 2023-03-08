@@ -1,7 +1,7 @@
 /*
-	File:Titik.java
+	File: MPoligon.java
 	Nama: M. Bahri Hussein Almaroqy	
-	Deskripsi: Kelas dari Titik
+	Deskripsi: Main dari kelas bangun datar persegi panjang dan segitiga
 */
 
 package org.main;
